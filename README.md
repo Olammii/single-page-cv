@@ -23,8 +23,8 @@ This project is built with only HTML only.
 
 ### Links
 
-- Solution url: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution url: [Add solution URL here](https://github.com/Olammii/single-page-cv)
+- Live Site URL: [Add live site URL here](https://olammii.github.io/single-page-cv/)
 
 ## My process
 
