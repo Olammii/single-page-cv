@@ -23,7 +23,7 @@ This project is built with only HTML only.
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution url: [Add solution URL here]()
 - Live Site URL: [Add live site URL here]()
 
 ## My process
